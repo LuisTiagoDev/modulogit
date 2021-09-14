@@ -1,1 +1,2 @@
-Meu primeiro testo com o git, fazendo configuração e testando..
+Meu primeiro teste com o git, fazendo configuração e testando..
+Modificando para testar....
